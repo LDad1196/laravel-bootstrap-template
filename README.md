@@ -42,3 +42,5 @@ Questo git-template fornisce lo scaffold di una web application realizzata con L
 	npm run dev
 	```
 - Puntare il browser all'indirizzo mostrato in terminale per controllare che tutto funzioni.
+
+Non so peerchè non lo avesse creato come push
